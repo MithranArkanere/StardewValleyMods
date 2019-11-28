@@ -1,0 +1,13 @@
+{
+	/*
+		Alchemy	
+	*/
+	"alchemy-add": "Add Ingredient",
+	"alchemy-mix": "Mix Ingredients",
+	"alchemy-remove": "Remove Ingredient",
+	
+	"alchemy-failed.1": "The alchemy station is full.",
+	"alchemy-failed.2": "You can't put this item in the alchemy pot.",
+	"alchemy-failed.3": "An unexpected error has occured"
+}
+

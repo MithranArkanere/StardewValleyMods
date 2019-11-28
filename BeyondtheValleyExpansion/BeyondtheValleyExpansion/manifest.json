@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Beyond the Valley Expansion",
+  "Author": "Jessebot",
+  "version": "1.0-prealpha.1",
+  "description": "Expands and improves on current & newly added gameplay mechanics including alchemy, combat rework and more!",
+  "uniqueid": "Jessebot.BeyondtheValleyExpansion",
+  "minimumapiversion": "2.11.3",
+  "EntryDLL": "BeyondtheValleyExpansion.dll"
+}
